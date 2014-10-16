@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[asl:home|Door43 (asl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-asl|d43-asl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-asl/archive/master.zip|d43-asl.zip]]
+
+**Recent Changes**
+{{changes>ns = asl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/asl|Ethnologue data]]
+
